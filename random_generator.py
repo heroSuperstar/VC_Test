@@ -11,13 +11,13 @@ print(f'Your random percentage is {num}%, '
 
 
 while ackno == False:
-    ans = bool(input('Accept that i am right:'))
+    ans = bool(input('Accept the Truth:'))
 
     if ans != True:
-        print('You have not accepted i am right.')
+        print('You have not accepted the truth.')
     
     else:
-        print('Good, now go and tell people i am right!')
+        print('Good, now go and defy your fate!')
         ackno = ans
 
 
