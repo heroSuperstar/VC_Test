@@ -6,4 +6,3 @@ diff = round(num - other_num,1)
 
 print(f'Your random percentage is {num}%, '
           f'which is {diff}% different to {other_num}%')
-
